@@ -1,0 +1,394 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:34:41] 
+[00:34:41] Server Plugins
+[00:34:41] --------------
+[00:34:41]  Loading plugin: crashdetect
+[00:34:41]   Failed.
+[00:34:41]  Loading plugin: sscanf
+[00:34:41] 
+
+[00:34:41]  ===============================
+
+[00:34:41]       sscanf plugin loaded.     
+
+[00:34:41]          Version:  2.8.3        
+
+[00:34:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:34:41]  ===============================
+
+[00:34:41]   Loaded.
+[00:34:41]  Loading plugin: streamer
+[00:34:41] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:34:41]   Loaded.
+[00:34:41]  Loaded 2 plugins.
+
+[00:34:42] 
+[00:34:42] Filterscripts
+[00:34:42] ---------------
+[00:34:42]   Loading filterscript 'AntiBot.amx'...
+[00:34:42] AntiBot Ucitan!
+[00:34:42]   Loaded 1 filterscripts.
+
+[00:34:42]  
+[00:34:42]  
+[00:34:42]  
+[00:34:42]  ======================================= 
+[00:34:42]  |                                     | 
+[00:34:42]  |        YSI version 3.09.0684        | 
+[00:34:42]  |        By Alex "Y_Less" Cole        | 
+[00:34:42]  |                                     | 
+[00:34:42]  ======================================= 
+[00:34:42]  
+[00:34:42]  
+[00:34:42]  
+[00:34:45] Ucitana server podesavanja.
+[00:34:45] Ucitana podesavanja organizacija.
+[00:34:46] Number of vehicle models: 100
+[00:35:27] [connection] 192.168.1.11:56761 requests connection cookie.
+[00:35:28] [connection] incoming connection: 192.168.1.11:56761 id: 0
+[00:35:28] [join] Domba_Barcan has joined the server (0:192.168.1.11)
+[00:36:13] [part] Domba_Barcan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:46:21] 
+[00:46:21] Server Plugins
+[00:46:21] --------------
+[00:46:21]  Loading plugin: crashdetect
+[00:46:21]   Failed.
+[00:46:21]  Loading plugin: sscanf
+[00:46:21] 
+
+[00:46:21]  ===============================
+
+[00:46:22]       sscanf plugin loaded.     
+
+[00:46:22]          Version:  2.8.3        
+
+[00:46:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:46:22]  ===============================
+
+[00:46:22]   Loaded.
+[00:46:22]  Loading plugin: streamer
+[00:46:22] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:46:22]   Loaded.
+[00:46:22]  Loaded 2 plugins.
+
+[00:46:22] 
+[00:46:22] Filterscripts
+[00:46:22] ---------------
+[00:46:22]   Loading filterscript 'AntiBot.amx'...
+[00:46:22] AntiBot Ucitan!
+[00:46:22]   Loaded 1 filterscripts.
+
+[00:46:22]  
+[00:46:22]  
+[00:46:22]  
+[00:46:22]  ======================================= 
+[00:46:22]  |                                     | 
+[00:46:22]  |        YSI version 3.09.0684        | 
+[00:46:22]  |        By Alex "Y_Less" Cole        | 
+[00:46:22]  |                                     | 
+[00:46:22]  ======================================= 
+[00:46:22]  
+[00:46:22]  
+[00:46:22]  
+[00:46:24] Ucitana server podesavanja.
+[00:46:24] Ucitana podesavanja organizacija.
+[00:46:25] Number of vehicle models: 100
+[00:47:09] [connection] 192.168.1.11:50286 requests connection cookie.
+[00:47:10] [connection] incoming connection: 192.168.1.11:50286 id: 0
+[00:47:10] [join] Domba_Barcan has joined the server (0:192.168.1.11)
+[00:48:40] [part] Domba_Barcan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:50:18] 
+[00:50:18] Server Plugins
+[00:50:18] --------------
+[00:50:18]  Loading plugin: crashdetect
+[00:50:18]   Failed.
+[00:50:18]  Loading plugin: sscanf
+[00:50:18] 
+
+[00:50:18]  ===============================
+
+[00:50:18]       sscanf plugin loaded.     
+
+[00:50:18]          Version:  2.8.3        
+
+[00:50:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:50:18]  ===============================
+
+[00:50:18]   Loaded.
+[00:50:18]  Loading plugin: streamer
+[00:50:18] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:50:18]   Loaded.
+[00:50:18]  Loaded 2 plugins.
+
+[00:50:18] 
+[00:50:18] Filterscripts
+[00:50:18] ---------------
+[00:50:18]   Loading filterscript 'AntiBot.amx'...
+[00:50:18] AntiBot Ucitan!
+[00:50:18]   Loaded 1 filterscripts.
+
+[00:50:18]  
+[00:50:18]  
+[00:50:18]  
+[00:50:18]  ======================================= 
+[00:50:18]  |                                     | 
+[00:50:18]  |        YSI version 3.09.0684        | 
+[00:50:18]  |        By Alex "Y_Less" Cole        | 
+[00:50:18]  |                                     | 
+[00:50:18]  ======================================= 
+[00:50:18]  
+[00:50:18]  
+[00:50:19]  
+[00:50:21] Ucitana server podesavanja.
+[00:50:21] Ucitana podesavanja organizacija.
+[00:50:21] Number of vehicle models: 100
+[00:50:54] [connection] 192.168.1.11:60801 requests connection cookie.
+[00:50:55] [connection] incoming connection: 192.168.1.11:60801 id: 0
+[00:50:55] [join] Domba_Barcan has joined the server (0:192.168.1.11)
+[00:55:04] [part] Domba_Barcan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:31:44] Unable to exec file 'server.cfg'.
+[11:31:44] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:31:47] Unable to exec file 'server.cfg'.
+[11:31:47] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:31:52] 
+[11:31:52] Server Plugins
+[11:31:52] --------------
+[11:31:52]  Loading plugin: crashdetect
+[11:31:52]   Failed.
+[11:31:52]  Loading plugin: sscanf
+[11:31:52] 
+
+[11:31:52]  ===============================
+
+[11:31:52]       sscanf plugin loaded.     
+
+[11:31:52]          Version:  2.8.3        
+
+[11:31:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:31:52]  ===============================
+
+[11:31:52]   Loaded.
+[11:31:52]  Loading plugin: streamer
+[11:31:53] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[11:31:53]   Loaded.
+[11:31:53]  Loaded 2 plugins.
+
+[11:31:53] 
+[11:31:53] Filterscripts
+[11:31:53] ---------------
+[11:31:53]   Loading filterscript 'AntiBot.amx'...
+[11:31:53] AntiBot Ucitan!
+[11:31:53]   Loaded 1 filterscripts.
+
+[11:31:53]  
+[11:31:53]  
+[11:31:53]  
+[11:31:53]  ======================================= 
+[11:31:53]  |                                     | 
+[11:31:53]  |        YSI version 3.09.0684        | 
+[11:31:53]  |        By Alex "Y_Less" Cole        | 
+[11:31:53]  |                                     | 
+[11:31:53]  ======================================= 
+[11:31:53]  
+[11:31:53]  
+[11:31:53]  
+[11:31:55] Ucitana server podesavanja.
+[11:31:55] Ucitana podesavanja organizacija.
+[11:31:56] Number of vehicle models: 100
+[11:33:02] [connection] 127.0.0.1:56543 requests connection cookie.
+[11:33:03] [connection] incoming connection: 127.0.0.1:56543 id: 0
+[11:33:03] [join] Domba_Barcan has joined the server (0:127.0.0.1)
+[11:46:04] [part] Domba_Barcan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:25:44] 
+[20:25:44] Server Plugins
+[20:25:44] --------------
+[20:25:44]  Loading plugin: crashdetect
+[20:25:44]   Failed.
+[20:25:44]  Loading plugin: sscanf
+[20:25:44] 
+
+[20:25:44]  ===============================
+
+[20:25:44]       sscanf plugin loaded.     
+
+[20:25:44]          Version:  2.8.3        
+
+[20:25:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:25:44]  ===============================
+
+[20:25:44]   Loaded.
+[20:25:44]  Loading plugin: streamer
+[20:25:45] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:25:45]   Loaded.
+[20:25:45]  Loaded 2 plugins.
+
+[20:25:45] 
+[20:25:45] Filterscripts
+[20:25:45] ---------------
+[20:25:45]   Loading filterscript 'AntiBot.amx'...
+[20:25:45] AntiBot Ucitan!
+[20:25:45]   Loaded 1 filterscripts.
+
+[20:25:45]  
+[20:25:45]  
+[20:25:45]  
+[20:25:45]  ======================================= 
+[20:25:45]  |                                     | 
+[20:25:45]  |        YSI version 3.09.0684        | 
+[20:25:45]  |        By Alex "Y_Less" Cole        | 
+[20:25:45]  |                                     | 
+[20:25:45]  ======================================= 
+[20:25:45]  
+[20:25:45]  
+[20:25:45]  
+[20:25:48] Ucitana server podesavanja.
+[20:25:48] Ucitana podesavanja organizacija.
+[20:25:49] Number of vehicle models: 101
+[20:26:26] [connection] 192.168.1.2:60985 requests connection cookie.
+[20:26:27] [connection] incoming connection: 192.168.1.2:60985 id: 0
+[20:26:28] [join] Amke_Original has joined the server (0:192.168.1.2)
+[20:27:58] [part] Amke_Original has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:32:06] 
+[20:32:06] Server Plugins
+[20:32:06] --------------
+[20:32:06]  Loading plugin: crashdetect
+[20:32:06]   Failed.
+[20:32:06]  Loading plugin: sscanf
+[20:32:06] 
+
+[20:32:06]  ===============================
+
+[20:32:06]       sscanf plugin loaded.     
+
+[20:32:06]          Version:  2.8.3        
+
+[20:32:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:32:06]  ===============================
+
+[20:32:06]   Loaded.
+[20:32:06]  Loading plugin: streamer
+[20:32:06] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:32:06]   Loaded.
+[20:32:06]  Loaded 2 plugins.
+
+[20:32:06] 
+[20:32:06] Filterscripts
+[20:32:06] ---------------
+[20:32:06]   Loading filterscript 'AntiBot.amx'...
+[20:32:06] AntiBot Ucitan!
+[20:32:06]   Loaded 1 filterscripts.
+
+[20:32:06]  
+[20:32:06]  
+[20:32:06]  
+[20:32:06]  ======================================= 
+[20:32:06]  |                                     | 
+[20:32:06]  |        YSI version 3.09.0684        | 
+[20:32:06]  |        By Alex "Y_Less" Cole        | 
+[20:32:06]  |                                     | 
+[20:32:06]  ======================================= 
+[20:32:06]  
+[20:32:06]  
+[20:32:06]  
+[20:32:09] Ucitana server podesavanja.
+[20:32:09] Ucitana podesavanja organizacija.
+[20:32:10] Number of vehicle models: 101
+[20:32:31] [connection] 192.168.1.2:51665 requests connection cookie.
+[20:32:32] [connection] incoming connection: 192.168.1.2:51665 id: 0
+[20:32:33] [join] Amke_Original has joined the server (0:192.168.1.2)
+[20:35:46] [part] Amke_Original has left the server (0:1)
